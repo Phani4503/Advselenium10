@@ -4,7 +4,13 @@ public class Nothing {
 	public static void main(String[] args) {
 		int a=1;
 		int b= 2;
-		System.out.println(a+b);
+		int c=b+a;
+		
+		System.out.println("print the value");
+		
+		System.out.println(c);
+		
+		
 	}
 
 }
