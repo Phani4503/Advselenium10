@@ -12,5 +12,7 @@ public class IPhone {
 		System.out.println("Iphone detiles");
 		
 		System.out.println("i need more detiles");
+		
+		System.out.println("movies");
 	}
 }
